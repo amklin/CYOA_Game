@@ -2,7 +2,7 @@
 
 ## Overview 
 
-This is a project created as part of the Computer Science and Software Engineering course at High Technology High School (Junior Year). This a copy of a project from https://github.com/CSE-HighTechHighSchool/AG22_6 (private repository).
+This is a project created as part of the Computer Science and Software Engineering course at High Technology High School (Junior Year). This a copy of a project from https://github.com/CSE-HighTechHighSchool/AG22_6 (private repository). The final presentation for the game, which also includes documentation for the Classes and functions, can be found here: [presentation.pdf](https://github.com/amklin/Labors-of-Hercules-Choose-Your-Own-Adventure-Game/blob/112ae5e97c96a50cdd7db25c07a5eaf0fc179342/presentation.pdf).
 
 ## Game Description
 
